@@ -1,0 +1,6 @@
+opencv-python
+requests
+Pillow
+python-dotenv
+torch
+torchvision
